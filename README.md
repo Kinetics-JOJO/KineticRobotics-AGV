@@ -1,3 +1,3 @@
 # Kinetic-
-From DGUT KineticRobotics 
+From KineticRobotics 
 AGV chassis controller
